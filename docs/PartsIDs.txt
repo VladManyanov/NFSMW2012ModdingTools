@@ -1,0 +1,17 @@
+Part Unlock IDs:
+0000 - Off-road Tires
+0100 - Track Tires
+0200 - Burn Nitrous
+0300 - Powershot Nitrous
+0400 - Long Gears
+0500 - Short Gears
+0600 - Lightweight Chassis
+0700 - Reinforced Chassis
+0800 - Aero Body
+0900 - Impact Protection Body
+0A00 - Reinflate Tires*
+0B00 - Ram Chassis
+0C00 - Jump Nitrous
+0D00 - Drift Tires
+
+*Being unlocked by the game after 5 completed events

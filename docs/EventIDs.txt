@@ -1,0 +1,40 @@
+Event IDs (Event file compatible):
+Note that the list is not full, more events could be included
+
+80031600 - Collateral Damage, Circuit
+75031600 - Crash Landing, Circuit
+8B031600 - Mud Bath, Circuit
+87031600 - Power Struggle, Circuit
+81031600 - Stock Market Crash, Circuit
+7E031600 - Turf War, Circuit
+
+92031600 - Arch Enemies, Sprint
+676F2100 - Bootlegging, Sprint
+F8712100 - Braking Traction, Sprint
+96031600 - Cannonball Run, Sprint
+EB3D2000 - Drive Hard, Sprint
+93031600 - Industrial Revolution, Sprint
+F1702100 - Live and Let Drive, Sprint
+41712100 - Pulp Friction, Sprint
+83031600 - Rolling Stock, Sprint
+51702100 - Sudden Impact, Sprint
+
+6B031600 - Get to the Chopper, Speedrun
+13722100 - Running Wild, Speedrun
+74031600 - To the Bridge, Speedrun
+69031600 - Turbine, Speedrun
+
+8E031600 - Double Parked, Ambush
+91712100 - Jailbird, Ambush
+8F031600 - Liberty Park, Ambush
+77031600 - The Fugitive, Ambush
+79031600 - The Hunted, Ambush
+
+F8662200 - Destruction Site, Smash'n'Grab
+02782100 - Duty Free, Smash'n'Grab
+19652200 - Green Belt, Smash'n'Grab
+A6662200 - Ship to Shore, Smash'n'Grab
+
+90712100 - Air Brake, Drift
+A4762100 - Drift City, Drift
+33092100 - Sidewinder, Drift
