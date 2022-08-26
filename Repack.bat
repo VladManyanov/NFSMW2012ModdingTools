@@ -1,0 +1,1 @@
+java -jar EventCarsListEdit.jar repack events F7_30_0F_00_new.dat 
