@@ -14,7 +14,7 @@ Script link: https://drive.google.com/drive/folders/1EvcpCqHMHY7BluTEHg6PhzsQCq9
 After that, proceed to unpack/15_00_00_00 and cpoy F7_30_0F_00.dat file into the folder with EventCarsListEdit. Launch Unpack.bat file.
 
 ## How to work with JSON version?
-Please proceed to this page: GIMME THE LINK I SAID GIMME THE LINK RIGHT NOW
+Please proceed to this page: https://github.com/VladManyanov/NFSMW2012ModdingTools/wiki/F7_30_0F_00-file-contents
 
 ## How to use it in-game?
 Launch Repack.bat file, and you will get a fresh F7_30_0F_00_new.dat file (*if you did the JSON syntax correctly*). Last thing you need to do - is copy .dat file back in unpack/15_00_00_00 folder with replace (*name it as original*), and repack the BNDL file with Noesis repacker plugin. 
