@@ -1,7 +1,7 @@
 # NFSMW2012ModdingTools
 Check out the example of mod, done with EventCarsListEdit: https://nfsmods.xyz/mod/3971
 
-This tool allows you to change the event list for various cars in Need for Speed: Most Wanted (2012) game, in single-player mode.
+This tool allows you to change the EasyDrive event list for various cars in Need for Speed: Most Wanted (2012) game, on single-player mode.
 Result file will be unpacked and repacked with 1:1 byte data if compare with original file (F7_30_0F_00.dat).
 Before you start making new events, you must get the file itself, and learn about unpacked file contents.
 
@@ -11,7 +11,7 @@ To get F7_30_0F_00.dat file, you should unpack GAMEPLAY.BNDL file in /GAMELOGIC/
 Script link: https://drive.google.com/drive/folders/1EvcpCqHMHY7BluTEHg6PhzsQCq9dUuZ2
 (*Google for tool usage information!*)
 
-After that, proceed to unpack/15_00_00_00 and cpoy F7_30_0F_00.dat file into the folder with EventCarsListEdit. Launch Unpack.bat file.
+After that, proceed to unpack/15_00_00_00 and copy F7_30_0F_00.dat file into the folder with EventCarsListEdit. Launch Unpack.bat file.
 
 ## How to work with JSON version?
 Please proceed to this page: https://github.com/VladManyanov/NFSMW2012ModdingTools/wiki/F7_30_0F_00-file-contents
