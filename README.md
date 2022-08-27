@@ -24,3 +24,6 @@ Replace the result BNDL file. If you did everything correctly, game should run f
 Only additional library you need is GSON library, used for JSON text stuff.
 
 https://search.maven.org/remotecontent?filepath=com/google/code/gson/gson/2.9.1/gson-2.9.1.jar
+
+## Thanks to...
+NIVSAYZ for initial offset/data findings in Event Cars List file.
