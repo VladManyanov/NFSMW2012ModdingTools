@@ -1,40 +1,97 @@
 Event IDs (Event file compatible):
 Note that the list is not full, more events could be included
 
-80031600 - Collateral Damage, Circuit
-75031600 - Crash Landing, Circuit
-8B031600 - Mud Bath, Circuit
-87031600 - Power Struggle, Circuit
-81031600 - Stock Market Crash, Circuit
-7E031600 - Turf War, Circuit
+95 03 16 00 - Cold Burn, Circuit
+80 03 16 00 - Collateral Damage, Circuit
+97 03 16 00 - Continental Drift, Circuit
+75 03 16 00 - Crash Landing, Circuit
+84 03 16 00 - Cruise Control, Circuit
+68 03 16 00 - Crush Hour, Circuit
+6F 03 16 00 - Emmerson Beltway, Circuit
+ED 3D 20 00 - Green Zone, Circuit
+6E 03 16 00 - Import Duty, Circuit
+43 D2 22 00 - Inner City pressure, Circuit
+8C 03 16 00 - Jumping Jacks, Circuit
+A1 70 21 00 - Mayhem, Circuit
+8B 03 16 00 - Mud Bath, Circuit
+6A 03 16 00 - Off the Grid, Circuit
+87 03 16 00 - Power Struggle, Circuit
+8A 03 16 00 - Red Shift, Circuit
+D5 76 21 00 - Round Trip, Circuit
+81 03 16 00 - Stock Market Crash, Circuit
+98 03 16 00 - Stopping Power, Circuit
+6C 03 16 00 - Turbulence, Circuit
+7E 03 16 00 - Turf War, Circuit
 
-92031600 - Arch Enemies, Sprint
-676F2100 - Bootlegging, Sprint
-F8712100 - Braking Traction, Sprint
-96031600 - Cannonball Run, Sprint
-EB3D2000 - Drive Hard, Sprint
-93031600 - Industrial Revolution, Sprint
-F1702100 - Live and Let Drive, Sprint
-41712100 - Pulp Friction, Sprint
-83031600 - Rolling Stock, Sprint
-51702100 - Sudden Impact, Sprint
+A9 76 21 00 - Aerial Agression, Sprint
+92 03 16 00 - Arch Enemies, Sprint
+67 6F 21 00 - Bootlegging, Sprint
+F8 71 21 00 - Braking Traction, Sprint
+AC 67 22 00 - Bring The Noise, Sprint
+73 70 21 00 - Bullet Train, Sprint
+EE 3D 20 00 - Burning Bridges, Sprint
+78 03 16 00 - Burning Rubber, Sprint
+96 03 16 00 - Cannonball Run, Sprint
+99 03 16 00 - Chain Reaction, Sprint
+82 03 16 00 - Crashdown, Sprint
+C8 70 21 00 - Deadline, Sprint
+E8 3D 20 00 - Downfall, Sprint
+EB 3D 20 00 - Drive Hard, Sprint
+9E 6A 21 00 - Get to Callahan, Sprint
+7D 03 16 00 - Harbor Run, Sprint
+47 67 22 00 - High Stakes, Sprint
+93 03 16 00 - Industrial Revolution, Sprint
+7F F2 19 00 - Keys to the City, Sprint
+D0 6E 21 00 - License to Thrill, Sprint
+F1 70 21 00 - Live and Let Drive, Sprint
+73 03 16 00 - Park and Country, Sprint
+7B 03 16 00 - Park and Ride, Sprint
+7A 03 16 00 - Power Play, Sprint
+7C 03 16 00 - Pumping Iron, Sprint
+41 71 21 00 - Pulp Friction, Sprint
+83 03 16 00 - Rolling Stock, Sprint
+70 03 16 00 - Running the Gauntlet, Sprint
+86 03 16 00 - Sports Sprint, Sprint
+6D 03 16 00 - Sprint Eastward, Sprint
+EA 3D 20 00 - Steel City, Sprint
+7F 03 16 00 - Straight to the Point, Sprint
+51 70 21 00 - Sudden Impact, Sprint
+E9 3D 20 00 - Terminal Velocity, Sprint
+DA E4 1F 00 - The Enforcer, Sprint
+88 03 16 00 - Trail Blazer, Sprint
 
-6B031600 - Get to the Chopper, Speedrun
-13722100 - Running Wild, Speedrun
-74031600 - To the Bridge, Speedrun
-69031600 - Turbine, Speedrun
+EC 3D 20 00 - Critical Path, Speedrun
+8D 03 16 00 - Downgraded, Speedrun
+94 03 16 00 - Downtown Run, Speedrun
+71 03 16 00 - Fast Track, Speedrun
+77 67 22 00 - Fuelled, Speedrun
+D6 E4 1F 00 - Full Overdrive, Speedrun
+DB E4 1F 00 - Full Throttle, Speedrun
+6B 03 16 00 - Get to the Chopper, Speedrun
+85 03 16 00 - Gravity, Speedrun
+D5 E4 1F 00 - Life For Speed, Speedrun
+91 03 16 00 - Needle Point, Speedrun
+13 72 21 00 - Running Wild, Speedrun
+B0 67 22 00 - Speed Demon, Speedrun
+D3 E4 1F 00 - The Descent, Speedrun
+74 03 16 00 - To the Bridge, Speedrun
+69 03 16 00 - Turbine, Speedrun
 
-8E031600 - Double Parked, Ambush
-91712100 - Jailbird, Ambush
-8F031600 - Liberty Park, Ambush
-77031600 - The Fugitive, Ambush
-79031600 - The Hunted, Ambush
+89 03 16 00 - Bloody Nose, Ambush
+8E 03 16 00 - Double Parked, Ambush
+91 71 21 00 - Jailbird, Ambush
+8F 03 16 00 - Liberty Park, Ambush
+77 03 16 00 - The Fugitive, Ambush
+79 03 16 00 - The Hunted, Ambush
 
-F8662200 - Destruction Site, Smash'n'Grab
-02782100 - Duty Free, Smash'n'Grab
-19652200 - Green Belt, Smash'n'Grab
-A6662200 - Ship to Shore, Smash'n'Grab
+0E 65 22 00 - Air Raid, Smash'n'Grab
+F8 66 22 00 - Destruction Site, Smash'n'Grab
+02 78 21 00 - Duty Free, Smash'n'Grab
+19 65 22 00 - Green Belt, Smash'n'Grab
+A6 66 22 00 - Ship to Shore, Smash'n'Grab
 
-90712100 - Air Brake, Drift
-A4762100 - Drift City, Drift
-33092100 - Sidewinder, Drift
+90 71 21 00 - Air Brake, Drift
+44 09 21 00 - Easy Drifter, Drift
+A4 76 21 00 - Drift City, Drift
+C8 77 21 00 - Power Slide, Drift
+33 09 21 00 - Sidewinder, Drift
